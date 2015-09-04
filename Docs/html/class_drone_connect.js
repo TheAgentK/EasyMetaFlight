@@ -1,0 +1,25 @@
+var class_drone_connect =
+[
+    [ "determineWifiStrength", "class_drone_connect.html#a9ee2759802d416c50d1a055210385117", null ],
+    [ "getAltitude", "class_drone_connect.html#a76ecc7da26180e2efc7a5c15f7362a98", null ],
+    [ "getBatteryPercentage", "class_drone_connect.html#a5df94708d7c856bfa314590432221005", null ],
+    [ "getBatteryVoltage", "class_drone_connect.html#af059e7d054da66adf5b4feef36c1b7f1", null ],
+    [ "getDroneClient", "class_drone_connect.html#afd0c5b9581a93ce794a9f30794b1f9da", null ],
+    [ "getMagneto", "class_drone_connect.html#a38461d0da06633196bb568d22bc664ea", null ],
+    [ "getPitch", "class_drone_connect.html#ad85e0665447f0cffe457a1d9e7228e10", null ],
+    [ "getPitchAsDegree", "class_drone_connect.html#af70012b2b66811ad8d915172538baaa9", null ],
+    [ "getRawNavData", "class_drone_connect.html#ae40482cf6c6c04e1141215e2fb399acf", null ],
+    [ "getRoll", "class_drone_connect.html#a0c2ceed427308e138b39acdc8ce45515", null ],
+    [ "getRollAsDegree", "class_drone_connect.html#a4416b857c134935d2936885b966ae1e2", null ],
+    [ "getVideoStreamTexture", "class_drone_connect.html#af27bc7f9e09ee93557720cae6bea555d", null ],
+    [ "getWlanStrenth", "class_drone_connect.html#a29e77b04b57075e926d2bb85c23aab75", null ],
+    [ "getYaw", "class_drone_connect.html#a03e172e9c61bcf57b9f31f17cb1e86de", null ],
+    [ "getYawAsDegree", "class_drone_connect.html#a9245907e31db3b672047d41448dc9dce", null ],
+    [ "isBatteryLow", "class_drone_connect.html#aff315a90639ee18e7ba77c4f7616b796", null ],
+    [ "isMovingDown", "class_drone_connect.html#a1e664e4da96c08990d9aa127fa144b3d", null ],
+    [ "isMovingUp", "class_drone_connect.html#adaae94f6d44b3db3c55820e36b34d272", null ],
+    [ "toggleDroneCame", "class_drone_connect.html#aecc2c703aa54a55449d39363f7b41fb4", null ],
+    [ "isControllerConnected", "class_drone_connect.html#ad96a701ecee1984596985c33f7a56e49", null ],
+    [ "isDroneConnected", "class_drone_connect.html#a51fe0716dd806e45c4c4a1f7b3efc2ed", null ],
+    [ "isLanded", "class_drone_connect.html#ace233b81e522ed19c053d6f2ba91703e", null ]
+];

@@ -1,0 +1,25 @@
+var struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t =
+[
+    [ "altitude_capture", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#a464d75af2acd96fdc3162d79244b25e7", null ],
+    [ "body_v", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#a14c6c05cf24c2d4323c05fbae069aa7c", null ],
+    [ "delta_phi", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#a050a7f2ec196c029345449b469f9f221", null ],
+    [ "delta_psi", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#a3518718813f524be4e67d8a7888d6e20", null ],
+    [ "delta_theta", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#a3dba5cba4f64565915afd0f4fda429b2", null ],
+    [ "gold_defined", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#ae8ff143431c77f86b2ce1cf32d40b6e9", null ],
+    [ "gold_reset", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#ab84349e1aa61706ac3a0dd3d7bde05b0", null ],
+    [ "gold_x", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#a4957104ece131f01499c81557ab4f46f", null ],
+    [ "gold_y", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#ae5a0896fad0d9cb5712e3da4020150a8", null ],
+    [ "new_raw_picture", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#afdbed33de4884def5e92840594462720", null ],
+    [ "phi_capture", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#afddd2ef27b76c94e336588685f6fec01", null ],
+    [ "psi_capture", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#ae8befdf72949bd16576e76efe6b43311", null ],
+    [ "size", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#af7ef7c858d0c8c767a769b68143743bc", null ],
+    [ "tag", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#a9c6d50c9eddb67c05869ee12684974fd", null ],
+    [ "theta_capture", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#a525fcca67fa54494c5bb8fa3afc52db5", null ],
+    [ "time_capture", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#a3d7598d02ea6d7dc1e88dc24f5e0bc22", null ],
+    [ "vision_misc", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#a66eb5603c6c40ded0457027102d2ec38", null ],
+    [ "vision_phi_ref_prop", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#a765e4ead3dfc2d9bee4b1bffbfd1fba5", null ],
+    [ "vision_phi_trim", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#a63313dde0b30a3f1315730dfdb8d657e", null ],
+    [ "vision_state", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#aa4aeaac9dd27ac26db599791d403f96d", null ],
+    [ "vision_theta_ref_prop", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#ac6fb37dd730886e3c22e8dde4624f453", null ],
+    [ "vision_theta_trim", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#a7d11aa6702beeb08c49a195ef62e6aee", null ]
+];
