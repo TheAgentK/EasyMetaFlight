@@ -1,14 +1,17 @@
 var searchData=
 [
-  ['elapse',['Elapse',['../class_a_r_1_1_drone_1_1_avionics_1_1_tools_1_1_time_1_1_expiration.html#a8c92d05908014324beec3ed10556f948',1,'AR::Drone::Avionics::Tools::Time::Expiration']]],
-  ['emergency',['Emergency',['../class_a_r_1_1_drone_1_1_avionics_1_1_objectives_1_1_emergency.html#af18f4cc7aec2ef58cf92aea344f07477',1,'AR.Drone.Avionics.Objectives.Emergency.Emergency(long aDuration=0)'],['../class_a_r_1_1_drone_1_1_avionics_1_1_objectives_1_1_emergency.html#adf2424e0a59428debc93918d094e0867',1,'AR.Drone.Avionics.Objectives.Emergency.Emergency(Expiration aExpiration)'],['../class_a_r_1_1_drone_1_1_client_1_1_drone_client.html#a90405f4b46266ea87a53c068cfdcfa0f',1,'AR.Drone.Client.DroneClient.Emergency()']]],
-  ['emergencyreset',['EmergencyReset',['../class_a_r_1_1_drone_1_1_avionics_1_1_objectives_1_1_emergency_reset.html#ae6d9bd45e1bae3eca8367a74165f2420',1,'AR.Drone.Avionics.Objectives.EmergencyReset.EmergencyReset(long aDuration=0)'],['../class_a_r_1_1_drone_1_1_avionics_1_1_objectives_1_1_emergency_reset.html#aaf5d3fc0570f1553d2d9830f47468bb3',1,'AR.Drone.Avionics.Objectives.EmergencyReset.EmergencyReset(Expiration aExpiration)']]],
-  ['emergencyresetting',['EmergencyResetting',['../class_a_r_1_1_drone_1_1_avionics_1_1_objectives_1_1_intent_obtainers_1_1_emergency_resetting.html#a610f92ff74a7b14109a0dfca4b118eb5',1,'AR::Drone::Avionics::Objectives::IntentObtainers::EmergencyResetting']]],
-  ['emergencysetting',['EmergencySetting',['../class_a_r_1_1_drone_1_1_avionics_1_1_objectives_1_1_intent_obtainers_1_1_emergency_setting.html#a0c56297767ebfc9a7261b34c8c709906',1,'AR::Drone::Avionics::Objectives::IntentObtainers::EmergencySetting']]],
-  ['ends',['Ends',['../class_a_r_1_1_drone_1_1_avionics_1_1_tools_1_1_time_1_1_duration.html#afccf5154d6ee9231f688c1dd4857cf94',1,'AR.Drone.Avionics.Tools.Time.Duration.Ends()'],['../class_a_r_1_1_drone_1_1_avionics_1_1_tools_1_1_time_1_1_duration.html#a257b892b673a7e0fab00394416818026',1,'AR.Drone.Avionics.Tools.Time.Duration.Ends(DateTime aTime)']]],
-  ['enqueueobjective',['EnqueueObjective',['../class_a_r_1_1_drone_1_1_avionics_1_1_autopilot.html#a6f5aec77e4bb04e65e95e78db870ba76',1,'AR::Drone::Avionics::Autopilot']]],
-  ['enqueueoutput',['EnqueueOutput',['../class_a_r_1_1_drone_1_1_avionics_1_1_autopilot.html#ad1d27f985ace1649278dc7c4259a0c5c',1,'AR::Drone::Avionics::Autopilot']]],
-  ['enqueuepacket',['EnqueuePacket',['../class_a_r_1_1_drone_1_1_media_1_1_packet_recorder.html#a7236d2605357a5f1b2992e31c4a15da0',1,'AR.Drone.Media.PacketRecorder.EnqueuePacket(NavigationPacket packet)'],['../class_a_r_1_1_drone_1_1_media_1_1_packet_recorder.html#afb84bb82225faaea03c44bc25f39b758',1,'AR.Drone.Media.PacketRecorder.EnqueuePacket(VideoPacket packet)'],['../class_a_r_1_1_drone_1_1_video_1_1_video_packet_decoder_worker.html#a826d6acd343d68f536a30b81bbe4e08f',1,'AR.Drone.Video.VideoPacketDecoderWorker.EnqueuePacket()']]],
-  ['escapearguments',['EscapeArguments',['../class_doxy_runner.html#a9e1ad0bb37f42899aeac2e2fb59cb769',1,'DoxyRunner']]],
-  ['expiration',['Expiration',['../class_a_r_1_1_drone_1_1_avionics_1_1_tools_1_1_time_1_1_expiration.html#a454da6b3e3e30ac7f1bd13cc8d2fd58a',1,'AR.Drone.Avionics.Tools.Time.Expiration.Expiration(Duration aDuration, bool aElapse=false)'],['../class_a_r_1_1_drone_1_1_avionics_1_1_tools_1_1_time_1_1_expiration.html#a96dc610cc4ee03ad406747b6b48870b2',1,'AR.Drone.Avionics.Tools.Time.Expiration.Expiration(long aDuration, bool aElapse=false)']]]
+  ['getaltitude',['getAltitude',['../class_drone_connect.html#a76ecc7da26180e2efc7a5c15f7362a98',1,'DroneConnect']]],
+  ['getbatterypercentage',['getBatteryPercentage',['../class_drone_connect.html#a5df94708d7c856bfa314590432221005',1,'DroneConnect']]],
+  ['getbatteryvoltage',['getBatteryVoltage',['../class_drone_connect.html#af059e7d054da66adf5b4feef36c1b7f1',1,'DroneConnect']]],
+  ['getdroneclient',['getDroneClient',['../class_drone_connect.html#afd0c5b9581a93ce794a9f30794b1f9da',1,'DroneConnect']]],
+  ['getmagneto',['getMagneto',['../class_drone_connect.html#a38461d0da06633196bb568d22bc664ea',1,'DroneConnect']]],
+  ['getpitch',['getPitch',['../class_drone_connect.html#ad85e0665447f0cffe457a1d9e7228e10',1,'DroneConnect']]],
+  ['getpitchasdegree',['getPitchAsDegree',['../class_drone_connect.html#af70012b2b66811ad8d915172538baaa9',1,'DroneConnect']]],
+  ['getrawnavdata',['getRawNavData',['../class_drone_connect.html#ae40482cf6c6c04e1141215e2fb399acf',1,'DroneConnect']]],
+  ['getroll',['getRoll',['../class_drone_connect.html#a0c2ceed427308e138b39acdc8ce45515',1,'DroneConnect']]],
+  ['getrollasdegree',['getRollAsDegree',['../class_drone_connect.html#a4416b857c134935d2936885b966ae1e2',1,'DroneConnect']]],
+  ['getvideostreamtexture',['getVideoStreamTexture',['../class_drone_connect.html#af27bc7f9e09ee93557720cae6bea555d',1,'DroneConnect']]],
+  ['getwlanstrenth',['getWlanStrenth',['../class_drone_connect.html#a29e77b04b57075e926d2bb85c23aab75',1,'DroneConnect']]],
+  ['getyaw',['getYaw',['../class_drone_connect.html#a03e172e9c61bcf57b9f31f17cb1e86de',1,'DroneConnect']]],
+  ['getyawasdegree',['getYawAsDegree',['../class_drone_connect.html#a9245907e31db3b672047d41448dc9dce',1,'DroneConnect']]]
 ];

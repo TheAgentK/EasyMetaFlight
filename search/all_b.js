@@ -1,16 +1,5 @@
 var searchData=
 [
-  ['k_5fmode',['k_mode',['../struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__references__t.html#a75ee8ec5ef03ec98405ccc12e53e9387',1,'AR::Drone::Data::Navigation::Native::Options::navdata_references_t']]],
-  ['k_5fv_5fx',['k_v_x',['../struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__references__t.html#ac2d6f9385d1d298b269b2bd8996106a2',1,'AR::Drone::Data::Navigation::Native::Options::navdata_references_t']]],
-  ['k_5fv_5fy',['k_v_y',['../struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__references__t.html#a5ce4da254cbc86868020d720848bbf4b',1,'AR::Drone::Data::Navigation::Native::Options::navdata_references_t']]],
-  ['kalman_5fpressure',['kalman_pressure',['../struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_navdata_bag.html#ae64079aa593657f87497f5876bc19152',1,'AR::Drone::Data::Navigation::Native::NavdataBag']]],
-  ['kalmanpressure',['KalmanPressure',['../namespace_a_r_1_1_drone_1_1_client_1_1_configuration.html#a1133cdf0594423aeca61a68264c788a1a9f0b11a9e66d08da214ae41986f28e09',1,'AR::Drone::Client::Configuration']]],
-  ['keepalivetimeout',['KeepAliveTimeout',['../class_a_r_1_1_drone_1_1_client_1_1_command_1_1_command_sender.html#a8cd90e3288ffb08036d54c45d7ac2381',1,'AR.Drone.Client.Command.CommandSender.KeepAliveTimeout()'],['../class_a_r_1_1_drone_1_1_client_1_1_navigation_1_1_navdata_acquisition.html#a7acba49c8d42d24646d4af4b338bf24d',1,'AR.Drone.Client.Navigation.NavdataAcquisition.KeepAliveTimeout()']]],
-  ['keepinrange',['KeepInRange',['../class_a_r_1_1_drone_1_1_avionics_1_1_tools_1_1_arithmetics.html#a644decea532b2575fb1cacfd76f553c4',1,'AR::Drone::Avionics::Tools::Arithmetics']]],
-  ['keepinrangechecked',['KeepInRangeChecked',['../class_a_r_1_1_drone_1_1_avionics_1_1_tools_1_1_arithmetics.html#aab710bb9e28c3bc7b48541b1564543c9',1,'AR::Drone::Avionics::Tools::Arithmetics']]],
-  ['key',['key',['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_dictionary_entry.html#adfeb762c55a79e48af70a548952a3b91',1,'FFmpeg.AutoGen.AVDictionaryEntry.key()'],['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_format_context.html#a80304240666a697150adbfdea0a13315',1,'FFmpeg.AutoGen.AVFormatContext.key()']]],
-  ['key_5fframe',['key_frame',['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_frame.html#a7bedabc5edad64d867e81c7099479a1c',1,'FFmpeg.AutoGen.AVFrame.key_frame()'],['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec_parser_context.html#aaddd061dbb7780cc2ee7e0f45805994b',1,'FFmpeg.AutoGen.AVCodecParserContext.key_frame()'],['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_filter_buffer_ref_video_props.html#ab2462559065e910e03960146e8adf9ec',1,'FFmpeg.AutoGen.AVFilterBufferRefVideoProps.key_frame()']]],
-  ['key_5fmismatch',['KEY_MISMATCH',['../class_native_wifi_1_1_wlan.html#a5586ad4be4d5d39c278dcabab221a766a67fcc22baf23c4f8eb2c92b1115c30e7',1,'NativeWifi::Wlan']]],
-  ['keyint_5fmin',['keyint_min',['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec_context.html#af51725e15f70ef2b59ade7b0f811c01b',1,'FFmpeg::AutoGen::AVCodecContext']]],
-  ['keylen',['keylen',['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_format_context.html#aab53b9f4f2081262a9545a33a807bb67',1,'FFmpeg::AutoGen::AVFormatContext']]]
+  ['pitchdegree',['PitchDegree',['../class_pitch_degree.html',1,'']]],
+  ['pitchdegree_2ecs',['PitchDegree.cs',['../_pitch_degree_8cs.html',1,'']]]
 ];

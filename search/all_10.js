@@ -41,8 +41,6 @@ var searchData=
   ['parser_5fparse',['parser_parse',['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec_parser.html#a5fbf3823f2f3f3691fc7ac989722dc80',1,'FFmpeg::AutoGen::AVCodecParser']]],
   ['partial_5fbuf',['partial_buf',['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_filter_link.html#abe8817183a5e22c742062b667939a9e1',1,'FFmpeg::AutoGen::AVFilterLink']]],
   ['partial_5fbuf_5fsize',['partial_buf_size',['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_filter_link.html#ac42735baa32c14c9a6c1a16d59810ea0',1,'FFmpeg::AutoGen::AVFilterLink']]],
-  ['paths',['paths',['../class_google_map.html#a11c89dd328b8440a2e17cb9ea870d335',1,'GoogleMap']]],
-  ['pathtodoxygen',['PathtoDoxygen',['../class_doxygen_config.html#ad308ed1d0bdb202587fba232b754929f',1,'DoxygenConfig']]],
   ['payload_5fsize',['payload_size',['../struct_a_r_1_1_drone_1_1_client_1_1_video_1_1_native_1_1parrot__video__encapsulation__t.html#add2cc132bc455ced380e17e3865226b9',1,'AR::Drone::Client::Video::Native::parrot_video_encapsulation_t']]],
   ['pb',['pb',['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_format_context.html#a2c3cf5485bbc6f78e1d993a08655ed14',1,'FFmpeg::AutoGen::AVFormatContext']]],
   ['pcr_5fpid',['pcr_pid',['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_program.html#acb434c1d4cf80ffdf6aae5c735c64e49',1,'FFmpeg::AutoGen::AVProgram']]],
@@ -330,10 +328,9 @@ var searchData=
   ['progressivecommand_2ecs',['ProgressiveCommand.cs',['../_progressive_command_8cs.html',1,'']]],
   ['progressmode',['ProgressMode',['../struct_a_r_1_1_drone_1_1_avionics_1_1_apparatus_1_1_input.html#ae2f8ca7fac9a70d22d45c5a2885e2346',1,'AR::Drone::Avionics::Apparatus::Input']]],
   ['progresswithmagneto',['ProgressWithMagneto',['../class_a_r_1_1_drone_1_1_client_1_1_drone_client.html#a2a8ad1c191c785268f922affc0cc35c3',1,'AR::Drone::Client::DroneClient']]],
-  ['progresswithmagnetocommand',['ProgressWithMagnetoCommand',['../class_a_r_1_1_drone_1_1_client_1_1_command_1_1_progress_with_magneto_command.html',1,'AR::Drone::Client::Command']]],
   ['progresswithmagnetocommand',['ProgressWithMagnetoCommand',['../class_a_r_1_1_drone_1_1_client_1_1_command_1_1_progress_with_magneto_command.html#aaf2a6be6a9905965af18681acbf8befb',1,'AR::Drone::Client::Command::ProgressWithMagnetoCommand']]],
+  ['progresswithmagnetocommand',['ProgressWithMagnetoCommand',['../class_a_r_1_1_drone_1_1_client_1_1_command_1_1_progress_with_magneto_command.html',1,'AR::Drone::Client::Command']]],
   ['progresswithmagnetocommand_2ecs',['ProgressWithMagnetoCommand.cs',['../_progress_with_magneto_command_8cs.html',1,'']]],
-  ['project',['Project',['../class_doxygen_config.html#ae69318495ba1db9f3a4d88e01764f9b4',1,'DoxygenConfig']]],
   ['props',['props',['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec_descriptor.html#ab3605e70ac96baf57367923b2dfa2a56',1,'FFmpeg::AutoGen::AVCodecDescriptor']]],
   ['psi',['psi',['../struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__demo__t.html#a69e507343a2474b5d19698d1fe0f3d3d',1,'AR::Drone::Data::Navigation::Native::Options::navdata_demo_t']]],
   ['psi_5fcapture',['psi_capture',['../struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__vision__t.html#ae8befdf72949bd16576e76efe6b43311',1,'AR::Drone::Data::Navigation::Native::Options::navdata_vision_t']]],
@@ -349,7 +346,6 @@ var searchData=
   ['pts_5fwrap_5fbehavior',['pts_wrap_behavior',['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_stream.html#af7986d29fdecfb01481e71b6d29ac434',1,'FFmpeg.AutoGen.AVStream.pts_wrap_behavior()'],['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_program.html#ade0f0f7cda053c1049fb18c17898c8b5',1,'FFmpeg.AutoGen.AVProgram.pts_wrap_behavior()']]],
   ['pts_5fwrap_5fbits',['pts_wrap_bits',['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_stream.html#ae8fc1fa5a016d67239cbc602ebb7af1f',1,'FFmpeg::AutoGen::AVStream']]],
   ['pts_5fwrap_5freference',['pts_wrap_reference',['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_stream.html#a1ff3e86c2037ce1fc09c920056a6df20',1,'FFmpeg.AutoGen.AVStream.pts_wrap_reference()'],['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_program.html#a77adee2fda9886143b8e32587c0ea49e',1,'FFmpeg.AutoGen.AVProgram.pts_wrap_reference()']]],
-  ['purple',['purple',['../_google_map_8cs.html#af97ecc5533558b9d7f347a29995c673eabb7aedfa61007447dd6efaf9f37641e3',1,'GoogleMap.cs']]],
   ['pwm',['pwm',['../struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_navdata_bag.html#a8727b0d12a4b0df6d94d6d72bc6234de',1,'AR.Drone.Data.Navigation.Native.NavdataBag.pwm()'],['../namespace_a_r_1_1_drone_1_1_client_1_1_configuration.html#a1133cdf0594423aeca61a68264c788a1a3247919499520123b35c6081c8f42727',1,'AR.Drone.Client.Configuration.Pwm()']]],
   ['pwmrefgyros',['PwmRefGyros',['../class_a_r_1_1_drone_1_1_client_1_1_configuration_1_1_control_section.html#acf2a177ec970813d4b44ab4414eaa100',1,'AR::Drone::Client::Configuration::ControlSection']]]
 ];

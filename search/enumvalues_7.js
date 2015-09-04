@@ -12,6 +12,5 @@ var searchData=
   ['horizontalplussmallvertical',['HorizontalPlusSmallVertical',['../namespace_a_r_1_1_drone_1_1_client_1_1_configuration.html#aab01552dbdcfa5caebbd716243b14567a63d4f6b224c2c17cd75b288590c222c1',1,'AR::Drone::Client::Configuration']]],
   ['hover',['Hover',['../struct_a_r_1_1_drone_1_1_avionics_1_1_apparatus_1_1_input.html#a9cf78a5259cb110d52d2c91f255abcc4aeee0168be69b854c20621fc6f01cc3fc',1,'AR.Drone.Avionics.Apparatus.Input.Hover()'],['../namespace_a_r_1_1_drone_1_1_client_1_1_command.html#a02330aef8175f3541b2af60e76a7703eaeee0168be69b854c20621fc6f01cc3fc',1,'AR.Drone.Client.Command.Hover()']]],
   ['hovering',['Hovering',['../namespace_a_r_1_1_drone_1_1_data_1_1_navigation.html#a747c003fe0224af8687d1ec4028047d7a0a6f55c33a9216693f82992a412317c3',1,'AR::Drone::Data::Navigation']]],
-  ['hrdsss',['HRDSSS',['../class_native_wifi_1_1_wlan.html#aa52f99d8db7c8f6cc84d6ca0e54f4361ae4bf2d5577ce2ab710bb2959c148814f',1,'NativeWifi::Wlan']]],
-  ['hybrid',['Hybrid',['../class_google_map.html#ad1cb262f00af473e52c90a6dda5a628fafb1b6e23a3767d2a31ef7899e6dd3f1e',1,'GoogleMap']]]
+  ['hrdsss',['HRDSSS',['../class_native_wifi_1_1_wlan.html#aa52f99d8db7c8f6cc84d6ca0e54f4361ae4bf2d5577ce2ab710bb2959c148814f',1,'NativeWifi::Wlan']]]
 ];

@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['maptype',['MapType',['../class_google_map.html#ad1cb262f00af473e52c90a6dda5a628f',1,'GoogleMap']]],
-  ['motion_5fest_5fid',['Motion_Est_ID',['../namespace_f_fmpeg_1_1_auto_gen.html#a32daad1a8660ad2dacafa009e16e571c',1,'FFmpeg::AutoGen']]]
+  ['navdata_5ftag_5ft',['navdata_tag_t',['../namespace_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native.html#a93e64ec245addeecbc4729a72cbd747c',1,'AR::Drone::Data::Navigation::Native']]],
+  ['navdataoptions',['NavdataOptions',['../namespace_a_r_1_1_drone_1_1_client_1_1_configuration.html#a1133cdf0594423aeca61a68264c788a1',1,'AR::Drone::Client::Configuration']]],
+  ['navigationstate',['NavigationState',['../namespace_a_r_1_1_drone_1_1_data_1_1_navigation.html#a747c003fe0224af8687d1ec4028047d7',1,'AR::Drone::Data::Navigation']]]
 ];
