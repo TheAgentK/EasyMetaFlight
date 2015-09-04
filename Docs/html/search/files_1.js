@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['batterylow_2ecs',['BatteryLow.cs',['../_battery_low_8cs.html',1,'']]],
-  ['batterypercentage_2ecs',['BatteryPercentage.cs',['../_battery_percentage_8cs.html',1,'']]],
-  ['batteryvoltage_2ecs',['BatteryVoltage.cs',['../_battery_voltage_8cs.html',1,'']]]
+  ['compass_2ecs',['compass.cs',['../compass_8cs.html',1,'']]],
+  ['controllerstatus_2ecs',['ControllerStatus.cs',['../_controller_status_8cs.html',1,'']]]
 ];

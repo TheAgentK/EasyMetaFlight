@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['bindtoclient',['BindToClient',['../class_a_r_1_1_drone_1_1_avionics_1_1_autopilot.html#adca35e663dc0e6c2b875b18201662577',1,'AR::Drone::Avionics::Autopilot']]]
+  ['colorsprites',['colorSprites',['../class_helper.html#a560e01dfe3138f7e717de9c060a42e93',1,'Helper']]],
+  ['colortohex',['ColorToHex',['../class_helper.html#a155217f153a526282c8be6cf213ad2ed',1,'Helper']]]
 ];

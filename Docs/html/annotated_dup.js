@@ -1,8 +1,5 @@
 var annotated_dup =
 [
-    [ "AR", "namespace_a_r.html", "namespace_a_r" ],
-    [ "FFmpeg", "namespace_f_fmpeg.html", "namespace_f_fmpeg" ],
-    [ "NativeWifi", "namespace_native_wifi.html", "namespace_native_wifi" ],
     [ "BatteryLow", "class_battery_low.html", "class_battery_low" ],
     [ "BatteryPercentage", "class_battery_percentage.html", "class_battery_percentage" ],
     [ "BatteryVoltage", "class_battery_voltage.html", "class_battery_voltage" ],
