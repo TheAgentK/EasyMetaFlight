@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:svg="http://www.w3.org/2000/svg" id="svg9177" viewBox="0 0 16 12" version="1.1">
+  <defs id="defs9179">
+    <linearGradient id="linearGradient9732" y2="876.4" gradientUnits="userSpaceOnUse" y1="887.83" x2="654.17" x1="654.17">
+      <stop id="stop9736" stop-color="#e5e5e5" offset="0"/>
+      <stop id="stop9738" stop-color="#b2b2b2" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g id="layer1" transform="translate(-429.14 -494.94)">
+    <g id="g18147-0" stroke="#404040" transform="translate(-210.86 -381.21)">
+      <rect id="rect18072-4" ry="0" height="3" width="3" y="884.65" x="640.5" fill="#fff"/>
+      <rect id="rect18128-7" ry="0" height="5" width="3" y="882.65" x="643.5" fill="#fff"/>
+      <rect id="rect18141-4" ry="0" height="7" width="3" y="880.65" x="646.5" fill="#fff"/>
+      <rect id="rect18143-2" ry="0" height="9" width="3" y="878.65" x="649.5" fill="#fff"/>
+      <rect id="rect18145-7" ry="0" height="11" width="3" y="876.65" x="652.5" fill="url(#linearGradient9732)"/>
+    </g>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Windows Wifi Indicator</dc:title>
+        <dc:date>2012-03-23T11:14:08</dc:date>
+        <dc:description>clip art, clipart, icon, internet, network, wifi, windows, wireless, </dc:description>
+        <dc:source>http://openclipart.org/detail/169035/windows-wifi-indicator-by-mightyman</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>mightyman</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>clip art</rdf:li>
+            <rdf:li>clipart</rdf:li>
+            <rdf:li>icon</rdf:li>
+            <rdf:li>internet</rdf:li>
+            <rdf:li>network</rdf:li>
+            <rdf:li>wifi</rdf:li>
+            <rdf:li>windows</rdf:li>
+            <rdf:li>wireless</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
