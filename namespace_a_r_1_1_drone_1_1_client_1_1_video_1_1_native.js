@@ -1,0 +1,4 @@
+var namespace_a_r_1_1_drone_1_1_client_1_1_video_1_1_native =
+[
+    [ "parrot_video_encapsulation_t", "struct_a_r_1_1_drone_1_1_client_1_1_video_1_1_native_1_1parrot__video__encapsulation__t.html", "struct_a_r_1_1_drone_1_1_client_1_1_video_1_1_native_1_1parrot__video__encapsulation__t" ]
+];

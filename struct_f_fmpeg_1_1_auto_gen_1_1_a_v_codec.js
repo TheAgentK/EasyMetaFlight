@@ -1,0 +1,28 @@
+var struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec =
+[
+    [ "capabilities", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#ad9638a411d9201f67589a8f504355e73", null ],
+    [ "channel_layouts", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#a0d9db839b1f1cc46daeb0b65952e846e", null ],
+    [ "close", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#acdb640b7037f55c0564ff098083f8583", null ],
+    [ "decode", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#ae639a348d6fa91fdaef2ec62600d42ea", null ],
+    [ "defaults", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#a5e8f7827443f1e5d166420cb2aa7cd91", null ],
+    [ "encode2", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#aa75b3bfd2e72da4c1bb133794cf82b84", null ],
+    [ "encode_sub", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#a33c4d20268480e1ecde32a1e731b8c1e", null ],
+    [ "flush", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#a228fa04a5f9cc063411d13db18458318", null ],
+    [ "id", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#a7796478f3e17dd7e2f32ad09eaedcfa8", null ],
+    [ "init", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#abcc025e51dc332b3c9c348f3ba2e7ad9", null ],
+    [ "init_static_data", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#afcca8adbd60b520664e02fdd95b893bb", null ],
+    [ "init_thread_copy", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#a5d3feef26d17c1b2150028cf7a134dc4", null ],
+    [ "long_name", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#aa0505d3c841b2b0456e4aa94e7dc4724", null ],
+    [ "max_lowres", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#ae608f733478e54206319cd718c7d7e9a", null ],
+    [ "name", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#ad51da31d0e5dc2fc1fe95d8c2a13b629", null ],
+    [ "next", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#a08dde8869a1ee45ed8328d48cf4ceed1", null ],
+    [ "pix_fmts", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#ad71e4c8d4c374d3fce10ad62ec32d67b", null ],
+    [ "priv_class", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#a82f1e3cddec4c9d7368b5a65ab0fa163", null ],
+    [ "priv_data_size", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#a7764218bfb8f4b6d457b10e7a237e966", null ],
+    [ "profiles", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#a58ef24953e9d957477ad27176f1d23ef", null ],
+    [ "sample_fmts", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#aa0ec68169f399743b5e180925c8271ca", null ],
+    [ "supported_framerates", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#a9498b71452ca123699b186aba2ca6c26", null ],
+    [ "supported_samplerates", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#a67be9399689f8b49602f03724614a221", null ],
+    [ "type", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#a7070ee5897b5af2c5bb904efc2c8693d", null ],
+    [ "update_thread_context", "struct_f_fmpeg_1_1_auto_gen_1_1_a_v_codec.html#ac3fa1f14e969ee0d2ac465bf9c5febfd", null ]
+];
