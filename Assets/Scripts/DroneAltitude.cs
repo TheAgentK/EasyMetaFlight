@@ -3,6 +3,11 @@ using System.Collections;
 using UnityEngine.UI;
 using System;
 
+/// <summary>
+/// Hanlder to Connect to the Drone
+/// @author Karsten Siedentopp
+/// @date 04.09.2015
+/// </summary>
 public class DroneAltitude : MonoBehaviour {
 
 	public DroneConnect drone;

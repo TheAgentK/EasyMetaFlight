@@ -2,6 +2,11 @@
 using System.Collections;
 using UnityEngine.UI;
 
+/// <summary>
+/// Hanlder to Connect to the Drone
+/// @author Karsten Siedentopp
+/// @date 04.09.2015
+/// </summary>
 public class DroneStatus : MonoBehaviour {
 	
 	public DroneConnect drone;

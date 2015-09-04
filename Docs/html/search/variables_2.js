@@ -12,7 +12,6 @@ var searchData=
   ['base_5f5',['base_5',['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_frame.html#a59c483d5d1bfbfbc7e5ed9b9b4c107d7',1,'FFmpeg::AutoGen::AVFrame']]],
   ['base_5f6',['base_6',['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_frame.html#aed1bfd2d9474151228871d3aad92ff07',1,'FFmpeg::AutoGen::AVFrame']]],
   ['base_5f7',['base_7',['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_frame.html#ae510316ff806fe98ccf734ffede0688d',1,'FFmpeg::AutoGen::AVFrame']]],
-  ['basefilestring',['BaseFileString',['../class_doxygen_window.html#a7a4acfac0a07a2a05f183e4f0bc53b62',1,'DoxygenWindow']]],
   ['batter100',['batter100',['../class_battery_low.html#a49771da41e3e998f056bc525ea2b1742',1,'BatteryLow']]],
   ['batter25',['batter25',['../class_battery_low.html#aae875e0e0fece39eebfcb61ac58c118e',1,'BatteryLow']]],
   ['batter50',['batter50',['../class_battery_low.html#a3de1b7682fa6e45602f2128158e55f3b',1,'BatteryLow']]],

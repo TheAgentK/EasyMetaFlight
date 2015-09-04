@@ -12,42 +12,108 @@ using XInputDotNetPure;
 using NativeWifi;
 using AR.Drone.Data.Navigation.Native;
 
+/// <summary>
+/// Hanlder to Connect to the Drone
+/// @author Karsten Siedentopp
+/// @date 04.09.2015
+/// </summary>
 public class DroneConnect : MonoBehaviour {
-
+	
+	/// <summary>
+	/// Handle the connection Client to the Drone
+	/// @warning Value is set automatically
+	/// </summary>
 	private DroneClient droneClient;
+	/// <summary>
+	/// the NavData from the droneClient
+	/// @warning Value is set automatically
+	/// </summary>
 	private NavigationData navigationData;
+	/// <summary>
+	/// navPacket from the droneClient
+	/// @warning Value is set automatically
+	/// </summary>
 	private NavigationPacket navigationPacket;
+	/// <summary>
+	/// The Video Decoder Class
+	/// @warning Value is set automatically
+	/// </summary>
 	private VideoPacketDecoderWorker videoPacketDecoderWorker;
-	// byte array which will be filled by the camera data
+	/// <summary>
+	/// byte array which will be filled by the camera data
+	/// @warning Value is set automatically
+	/// </summary>
 	private byte[] data;
-	// Texture used for the camera content
+	/// <summary>
+	/// Texture used for the camera content
+	/// @warning Value is set automatically
+	/// </summary>
 	private Texture2D cameraTexture;
-
+	
+	/// <summary>
+	/// Saves with Videocamera is selected
+	/// @warning Value is set automatically
+	/// </summary>
 	private AR.Drone.Client.Configuration.VideoChannelType actualVideoChannel = AR.Drone.Client.Configuration.VideoChannelType.Horizontal;
-
+	
+	/// <summary>
+	/// constant for calculating Radiant to Degree
+	/// </summary>
 	private const float RadianToDegree = (float) (180.0f/Math.PI);
-
+	
+	/// <summary>
+	/// show wether or not the drone is connected
+	/// @warning Value is set automatically
+	/// </summary>
 	public bool isDroneConnected = false;
+	/// <summary>
+	/// show wether or not the controller is connected
+	/// @warning Value is set automatically
+	/// </summary>
 	public bool isControllerConnected = false;
+	/// <summary>
+	/// show wether or not the drone is landed
+	/// @warning Value is set automatically
+	/// </summary>
 	public bool isLanded = false;
 
-	private float prevAltiUp = 0;
-	private float currentAltiUp = 0;
-	private float prevAltiDown = 0;
-	private float currentAltiDown = 0;
+	/// <summary>
+	/// Buffer to hold entrys of the altitude to check if the drone is rising or not
+	/// @warning Value is set automatically
+	/// </summary>
 	private MaxBuffer<float> altitudeBuffer = new MaxBuffer<float> (5);
-
+	
+	/// <summary>
+	/// the previous batter percentage
+	/// @warning Value is set automatically
+	/// </summary>
 	private float prevBattery = 0;
+	/// <summary>
+	/// the current battery percentage
+	/// @warning Value is set automatically
+	/// </summary>
 	private float currentBattery = 0;
-
-	// wlanclient for signal strength
+	
+	/// <summary>
+	/// wlanclient for signal strength
+	/// @warning Value is set automatically
+	/// </summary>
 	private WlanClient wlanClient;
-
-	// Width and height if the camera
+	
+	/// <summary>
+	/// width of the camera
+	/// @warning static value
+	/// </summary>
 	private int width = 640;
+	/// <summary>
+	/// height of the camera
+	/// @warning static value
+	/// </summary>
 	private int height = 360;
-
-	// Use this for initialization
+	
+	/// <summary>
+	/// Use this for initialization
+	/// </summary>
 	void Start () { 
 		Debug.Log("Start DroneObserver");
 		// initialize data array
@@ -87,14 +153,10 @@ public class DroneConnect : MonoBehaviour {
 		// determine connection
 		wlanClient = new WlanClient();
 	}
-
-	// Update is called once per frame
-	void Update () {;
-		if (isDroneConnected) {
-		}
-	}
-
-	// Called if the gameobject is destroyed
+	
+	/// <summary>
+	/// Called if the gameobject is destroyed
+	/// </summary>
 	void OnDestroy(){
 		droneClient.Land();
 		droneClient.Stop();
@@ -102,53 +164,81 @@ public class DroneConnect : MonoBehaviour {
 		videoPacketDecoderWorker.Stop ();
 		videoPacketDecoderWorker.Dispose();
 	}
-
+	
+	/// <summary>
+	/// get the raw NavData from AR.Drone
+	/// </summary>
 	public NavdataBag getRawNavData(){
 		return navigationData.raw;
 	}
-
+	
+	/// <summary>
+	/// get the DroneClient
+	/// </summary>
 	public DroneClient getDroneClient(){
 		return droneClient;
 	}
-
+	
+	/// <summary>
+	/// get the pitch as radian
+	/// </summary>
 	public float getPitch(){
-		//Debug.Log ("Pitch: " + navigationData.Pitch);
 		return navigationData.Pitch;
 	}
+	/// <summary>
+	/// get ppitch as degree
+	/// </summary>
 	public float getPitchAsDegree(){
 		float pitch = getPitch ();
 		pitch = pitch * RadianToDegree;
 		pitch = (float) Math.Round(pitch, 0);
 		return pitch;
 	}
-
+	
+	/// <summary>
+	/// get roll as radian
+	/// </summary>
 	public float getRoll(){
 		//Debug.Log ("Roll: " + navigationData.Roll);
 		return navigationData.Roll;
 	}
+	/// <summary>
+	/// get roll as degree
+	/// </summary>
 	public float getRollAsDegree(){
 		float roll = getRoll ();
 		roll = roll * RadianToDegree;
 		roll = (float) Math.Round(roll, 0);
 		return roll;
 	}
-
+	
+	/// <summary>
+	/// get yaw as radian
+	/// </summary>
 	public float getYaw(){
 		//Debug.Log ("Yaw: " + navigationData.Yaw);
 		return navigationData.Yaw;
 	}
+	/// <summary>
+	/// get yaw as degree
+	/// </summary>
 	public float getYawAsDegree(){
 		float yaw = getYaw ();
 		yaw = yaw * RadianToDegree;
 		yaw = (float) Math.Round(yaw, 0);
 		return yaw;
 	}
-
+	
+	/// <summary>
+	/// get altitude in meter
+	/// </summary>
 	public float getAltitude(){
-		//Debug.Log ("Yaw: " + navigationData.Yaw);
 		return (float) Math.Round(navigationData.Altitude, 2);
 	}
-
+	
+	/// <summary>
+	/// true if the drone is rising
+	/// </summary>
 	public bool isMovingUp(){
 		altitudeBuffer.Add (getAltitude());
 		float first = (float)altitudeBuffer.ToArray ().GetValue (0);
@@ -160,7 +250,10 @@ public class DroneConnect : MonoBehaviour {
 			return false;
 		}
 	}
-
+	
+	/// <summary>
+	/// true if the drone fall
+	/// </summary>
 	public bool isMovingDown(){
 		altitudeBuffer.Add (getAltitude());
 		float first = (float)altitudeBuffer.ToArray ().GetValue (0);
@@ -173,18 +266,28 @@ public class DroneConnect : MonoBehaviour {
 		}
 	}
 
+	/// <summary>
+	/// get all Parameters from the Magneto
+	/// @see Magneto
+	/// </summary>
 	public Magneto getMagneto(){
-		Debug.Log (navigationData.Magneto.heading_angle);
 		return navigationData.Magneto;
 	}
-	
+	/// <summary>
+	/// check if the batter percentage is under 25%
+	/// </summary>
 	public bool isBatteryLow(){
-		//Debug.Log ("Yaw: " + navigationData.Yaw);
 		return navigationData.Battery.Low;
 	}
+	/// <summary>
+	/// get battery percentage
+	/// </summary>
 	public float getBatteryPercentage(){
 		return navigationData.Battery.Percentage;
 	}
+	/// <summary>
+	/// ge the current batter voltage in Volts
+	/// </summary>
 	public float getBatteryVoltage(){
 		prevBattery = currentBattery;
 		currentBattery = (float) Math.Round(navigationData.Battery.Voltage, 1);
@@ -193,6 +296,9 @@ public class DroneConnect : MonoBehaviour {
 		return (float) Math.Round(diffBattery, 1);
 	}
 
+	/// <summary>
+	/// get the W-Lan stength as a value from 1 to 10
+	/// </summary>
 	public float getWlanStrenth(){
 		return navigationData.Wifi.LinkQuality;
 	}
@@ -225,6 +331,9 @@ public class DroneConnect : MonoBehaviour {
 		droneClient.Send(configuration);
 	}
 
+	/// <summary>
+	/// Toggle the drone cameras from front to bottom and vice versa
+	/// </summary>
 	public void toggleDroneCame(){
 		if(actualVideoChannel.Equals(AR.Drone.Client.Configuration.VideoChannelType.Vertical)){
 			switchDroneCamera(AR.Drone.Client.Configuration.VideoChannelType.Horizontal);

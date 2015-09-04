@@ -3,6 +3,11 @@ using System.Collections;
 using Meta;
 using UnityEngine.UI;
 
+/// <summary>
+/// Hanlder to Connect to the Drone
+/// @author Karsten Siedentopp
+/// @date 04.09.2015
+/// </summary>
 public class dronePitch : MonoBehaviour {
 	public Transform numberLine;
 	public Transform smallLine;

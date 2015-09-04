@@ -1,7 +1,6 @@
 var searchData=
 [
   ['calibratecommand_2ecs',['CalibrateCommand.cs',['../_calibrate_command_8cs.html',1,'']]],
-  ['camerafeedexample_2ecs',['CameraFeedExample.cs',['../_camera_feed_example_8cs.html',1,'']]],
   ['commandsender_2ecs',['CommandSender.cs',['../_command_sender_8cs.html',1,'']]],
   ['compass_2ecs',['compass.cs',['../compass_8cs.html',1,'']]],
   ['comwdgcommand_2ecs',['ComWdgCommand.cs',['../_com_wdg_command_8cs.html',1,'']]],

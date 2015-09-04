@@ -97,13 +97,7 @@ var hierarchy =
     [ "AR.Drone.Client.Configuration.ConfigurationAcquisition", "class_a_r_1_1_drone_1_1_client_1_1_configuration_1_1_configuration_acquisition.html", null ],
     [ "AR.Drone.Data.ConversionHelper", "class_a_r_1_1_drone_1_1_data_1_1_conversion_helper.html", null ],
     [ "NativeWifi.Wlan.Dot11Ssid", "struct_native_wifi_1_1_wlan_1_1_dot11_ssid.html", null ],
-    [ "DoxygenConfig", "class_doxygen_config.html", null ],
-    [ "DoxyRunner", "class_doxy_runner.html", null ],
-    [ "DoxyThreadSafeOutput", "class_doxy_thread_safe_output.html", null ],
     [ "AR.Drone.Avionics.Tools.Time.Duration", "class_a_r_1_1_drone_1_1_avionics_1_1_tools_1_1_time_1_1_duration.html", null ],
-    [ "EditorWindow", null, [
-      [ "DoxygenWindow", "class_doxygen_window.html", null ]
-    ] ],
     [ "AR.Drone.Data.EnumExtensions", "class_a_r_1_1_drone_1_1_data_1_1_enum_extensions.html", null ],
     [ "AR.Drone.Client.EnumHelper", "class_a_r_1_1_drone_1_1_client_1_1_enum_helper.html", null ],
     [ "Exception", null, [
@@ -115,9 +109,6 @@ var hierarchy =
     [ "FFmpeg.AutoGen.FFmpegInvoke", "class_f_fmpeg_1_1_auto_gen_1_1_f_fmpeg_invoke.html", null ],
     [ "AR.Drone.Client.Configuration.FlightAnimation", "struct_a_r_1_1_drone_1_1_client_1_1_configuration_1_1_flight_animation.html", null ],
     [ "AR.Drone.Avionics.Apparatus.Input.Limits.Gaz", "class_a_r_1_1_drone_1_1_avionics_1_1_apparatus_1_1_input_1_1_limits_1_1_gaz.html", null ],
-    [ "GoogleMapLocation", "class_google_map_location.html", null ],
-    [ "GoogleMapMarker", "class_google_map_marker.html", null ],
-    [ "GoogleMapPath", "class_google_map_path.html", null ],
     [ "Helper", "class_helper.html", null ],
     [ "IDisposable", null, [
       [ "AR.Drone.Infrastructure.DisposableBase", "class_a_r_1_1_drone_1_1_infrastructure_1_1_disposable_base.html", [
@@ -180,10 +171,8 @@ var hierarchy =
       [ "BatteryLow", "class_battery_low.html", null ],
       [ "BatteryPercentage", "class_battery_percentage.html", null ],
       [ "BatteryVoltage", "class_battery_voltage.html", null ],
-      [ "CameraFeedExample", "class_camera_feed_example.html", null ],
       [ "compass", "classcompass.html", null ],
       [ "ControllerStatus", "class_controller_status.html", null ],
-      [ "DebugScript", "class_debug_script.html", null ],
       [ "DisplayMessage", "class_display_message.html", null ],
       [ "DroneAltitude", "class_drone_altitude.html", null ],
       [ "droneCamFrontController", "classdrone_cam_front_controller.html", null ],
@@ -193,19 +182,9 @@ var hierarchy =
       [ "droneRoll", "classdrone_roll.html", null ],
       [ "DroneStatus", "class_drone_status.html", null ],
       [ "gMapsDrone", "classg_maps_drone.html", null ],
-      [ "GoogleMap", "class_google_map.html", null ],
-      [ "MarkerTrackerExample", "class_marker_tracker_example.html", null ],
-      [ "Meta.Apps.MetaSDKGuide.HudCube", "class_meta_1_1_apps_1_1_meta_s_d_k_guide_1_1_hud_cube.html", null ],
-      [ "Meta.Apps.MetaSDKGuide.Quit", "class_meta_1_1_apps_1_1_meta_s_d_k_guide_1_1_quit.html", null ],
-      [ "Meta.Apps.SDKGuide.GazeableTestScript", "class_meta_1_1_apps_1_1_s_d_k_guide_1_1_gazeable_test_script.html", null ],
-      [ "Meta.Apps.SDKGuide.OnGrabTestScript", "class_meta_1_1_apps_1_1_s_d_k_guide_1_1_on_grab_test_script.html", null ],
-      [ "Meta.Apps.SDKGuide.OnPinchTestScript", "class_meta_1_1_apps_1_1_s_d_k_guide_1_1_on_pinch_test_script.html", null ],
-      [ "Meta.Apps.SDKGuide.OnSwipeTestScript", "class_meta_1_1_apps_1_1_s_d_k_guide_1_1_on_swipe_test_script.html", null ],
-      [ "Meta.Apps.SDKGuide.OnTouchEnterTestScript", "class_meta_1_1_apps_1_1_s_d_k_guide_1_1_on_touch_enter_test_script.html", null ],
       [ "PitchDegree", "class_pitch_degree.html", null ],
       [ "RollDegree", "class_roll_degree.html", null ],
-      [ "Wlan", "class_wlan.html", null ],
-      [ "XInputTestCS", "class_x_input_test_c_s.html", null ]
+      [ "Wlan", "class_wlan.html", null ]
     ] ],
     [ "FFmpeg.AutoGen.MpegEncContext", "struct_f_fmpeg_1_1_auto_gen_1_1_mpeg_enc_context.html", null ],
     [ "AR.Drone.Data.Navigation.Native.Options.navdata_adc_data_frame_t", "struct_a_r_1_1_drone_1_1_data_1_1_navigation_1_1_native_1_1_options_1_1navdata__adc__data__frame__t.html", null ],

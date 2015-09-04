@@ -14,7 +14,6 @@ var searchData=
   ['getdroneclient',['getDroneClient',['../class_drone_connect.html#afd0c5b9581a93ce794a9f30794b1f9da',1,'DroneConnect']]],
   ['getenum_3c_20t_20_3e',['GetEnum&lt; T &gt;',['../class_a_r_1_1_drone_1_1_client_1_1_configuration_1_1_section_base.html#acd95d6ab22035f1be03fcf64c633072b',1,'AR::Drone::Client::Configuration::SectionBase']]],
   ['getflightanimation',['GetFlightAnimation',['../class_a_r_1_1_drone_1_1_client_1_1_configuration_1_1_section_base.html#a10bfdae6f58e90d4e9f53f188424eeb0',1,'AR::Drone::Client::Configuration::SectionBase']]],
-  ['getgmaptexture',['getGMapTexture',['../class_google_map.html#a2ad7e51390e4f74817f797207afb900a',1,'GoogleMap']]],
   ['getint32',['GetInt32',['../class_a_r_1_1_drone_1_1_client_1_1_configuration_1_1_section_base.html#a706113eae9076eba1a10e8ae35a81f70',1,'AR::Drone::Client::Configuration::SectionBase']]],
   ['getledanimation',['GetLedAnimation',['../class_a_r_1_1_drone_1_1_client_1_1_configuration_1_1_section_base.html#a7e436d3174d12a1694d4044a9cd6b149',1,'AR::Drone::Client::Configuration::SectionBase']]],
   ['getmagneto',['getMagneto',['../class_drone_connect.html#a38461d0da06633196bb568d22bc664ea',1,'DroneConnect']]],

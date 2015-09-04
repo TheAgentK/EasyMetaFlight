@@ -1,6 +1,11 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/// <summary>
+/// Hanlder to Connect to the Drone
+/// @author Karsten Siedentopp
+/// @date 04.09.2015
+/// </summary>
 public class droneRoll : MonoBehaviour {
 
 	public DroneConnect drone;

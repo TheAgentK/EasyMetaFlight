@@ -1,5 +1,10 @@
 using System.Collections.Generic;
 
+/// <summary>
+/// Hanlder to Connect to the Drone
+/// @author Karsten Siedentopp
+/// @date 04.09.2015
+/// </summary>
 class MaxBuffer<T> : Queue<T>
 {
     private int? maxCapacity { get; set; }

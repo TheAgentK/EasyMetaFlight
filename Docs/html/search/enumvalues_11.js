@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['satellite',['Satellite',['../class_google_map.html#ad1cb262f00af473e52c90a6dda5a628fac2b5e73361a4bf9d26a73413d0abee5e',1,'GoogleMap']]],
   ['scan_5fcall_5ffail',['SCAN_CALL_FAIL',['../class_native_wifi_1_1_wlan.html#a5586ad4be4d5d39c278dcabab221a766a19cff5ab32bfa9b86f7e129292cee9de',1,'NativeWifi::Wlan']]],
   ['scancomplete',['ScanComplete',['../class_native_wifi_1_1_wlan.html#ac5fc77e7b60aa0137dcd3e2f67752b80a9fbf26ec9992d8c106c7b3cbbde93dee',1,'NativeWifi::Wlan']]],
   ['scanfail',['ScanFail',['../class_native_wifi_1_1_wlan.html#ac5fc77e7b60aa0137dcd3e2f67752b80a9e204110676383482d2d6ed9086d13cf',1,'NativeWifi::Wlan']]],
@@ -14,7 +13,6 @@ var searchData=
   ['setbygrouppolicy',['SetByGroupPolicy',['../class_native_wifi_1_1_wlan.html#adee74acaf8822ef411d4ef9bf2d7ff23a274ec1a928796b2a89597cc72b290304',1,'NativeWifi::Wlan']]],
   ['setbyuser',['SetByUser',['../class_native_wifi_1_1_wlan.html#adee74acaf8822ef411d4ef9bf2d7ff23ad9e7964b9891ff4c291c34c2dac0b9f3',1,'NativeWifi::Wlan']]],
   ['signalqualitychange',['SignalQualityChange',['../class_native_wifi_1_1_wlan.html#a5f125b5cc7a54b66bfd67fd3619dcd2ba9a843182c20d03ba413f85ecac107393',1,'NativeWifi::Wlan']]],
-  ['small',['Small',['../class_google_map_marker.html#ada32a2c13680af13d4362c901983a2a1a2660064e68655415da2628c2ae2f7592',1,'GoogleMapMarker']]],
   ['snakegreenred',['SnakeGreenRed',['../namespace_a_r_1_1_drone_1_1_client.html#ab80b3fdb29c8bfa446c3a58cd4d5cb9eaa5dc387966ef8e227ab24d46b6726ab9',1,'AR::Drone::Client']]],
   ['ssid_5flist_5ftoo_5flong',['SSID_LIST_TOO_LONG',['../class_native_wifi_1_1_wlan.html#a5586ad4be4d5d39c278dcabab221a766acd50f26c967156b9ea647d6dc7a32a82',1,'NativeWifi::Wlan']]],
   ['standard',['Standard',['../namespace_a_r_1_1_drone_1_1_client.html#ab80b3fdb29c8bfa446c3a58cd4d5cb9eaeb6d8ae6f20283755b339c0dc273988b',1,'AR::Drone::Client']]],

@@ -1,7 +1,6 @@
 var searchData=
 [
   ['calibratecommand',['CalibrateCommand',['../class_a_r_1_1_drone_1_1_client_1_1_command_1_1_calibrate_command.html',1,'AR::Drone::Client::Command']]],
-  ['camerafeedexample',['CameraFeedExample',['../class_camera_feed_example.html',1,'']]],
   ['commandsender',['CommandSender',['../class_a_r_1_1_drone_1_1_client_1_1_command_1_1_command_sender.html',1,'AR::Drone::Client::Command']]],
   ['compass',['compass',['../classcompass.html',1,'']]],
   ['concurrentqueueextensions',['ConcurrentQueueExtensions',['../class_a_r_1_1_drone_1_1_infrastructure_1_1_concurrent_queue_extensions.html',1,'AR::Drone::Infrastructure']]],

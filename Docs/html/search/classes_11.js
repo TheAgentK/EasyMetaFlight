@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['takeoff',['Takeoff',['../class_a_r_1_1_drone_1_1_avionics_1_1_objectives_1_1_takeoff.html',1,'AR::Drone::Avionics::Objectives']]],
-  ['takingoff',['Takingoff',['../class_a_r_1_1_drone_1_1_avionics_1_1_objectives_1_1_intent_obtainers_1_1_takingoff.html',1,'AR::Drone::Avionics::Objectives::IntentObtainers']]]
+  ['userboxcommand',['UserboxCommand',['../struct_a_r_1_1_drone_1_1_client_1_1_configuration_1_1_userbox_command.html',1,'AR::Drone::Client::Configuration']]],
+  ['userboxsection',['UserboxSection',['../class_a_r_1_1_drone_1_1_client_1_1_configuration_1_1_userbox_section.html',1,'AR::Drone::Client::Configuration']]]
 ];

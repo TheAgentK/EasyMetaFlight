@@ -19,8 +19,5 @@ var searchData=
   ['query_5fcodec',['query_codec',['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_output_format.html#a0df3f93de58c599c9cb5f4870048617f',1,'FFmpeg::AutoGen::AVOutputFormat']]],
   ['query_5fformats',['query_formats',['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_filter.html#a3ca65cb5f539c8dfc3a627b8117d945c',1,'FFmpeg::AutoGen::AVFilter']]],
   ['query_5franges',['query_ranges',['../struct_f_fmpeg_1_1_auto_gen_1_1_a_v_class.html#a87909d6d74f2b9f8f71e0b9928d8eb15',1,'FFmpeg::AutoGen::AVClass']]],
-  ['queryonly',['QueryOnly',['../class_native_wifi_1_1_wlan.html#adee74acaf8822ef411d4ef9bf2d7ff23ae39b1c82e1f1898ea84761478b22b4de',1,'NativeWifi::Wlan']]],
-  ['quit',['Quit',['../class_meta_1_1_apps_1_1_meta_s_d_k_guide_1_1_quit.html',1,'Meta::Apps::MetaSDKGuide']]],
-  ['quit_2ecs',['Quit.cs',['../_quit_8cs.html',1,'']]],
-  ['quitapp',['QuitApp',['../class_meta_1_1_apps_1_1_meta_s_d_k_guide_1_1_quit.html#aa3a9fe2aa99887d310e58bd59272f7ae',1,'Meta::Apps::MetaSDKGuide::Quit']]]
+  ['queryonly',['QueryOnly',['../class_native_wifi_1_1_wlan.html#adee74acaf8822ef411d4ef9bf2d7ff23ae39b1c82e1f1898ea84761478b22b4de',1,'NativeWifi::Wlan']]]
 ];

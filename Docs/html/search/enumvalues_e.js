@@ -145,6 +145,5 @@ var searchData=
   ['profilesexhausted',['ProfilesExhausted',['../class_native_wifi_1_1_wlan.html#ac5fc77e7b60aa0137dcd3e2f67752b80a9defa366ac42caefd66b3fafa7dcf2a3',1,'NativeWifi::Wlan']]],
   ['progress',['Progress',['../struct_a_r_1_1_drone_1_1_avionics_1_1_apparatus_1_1_input.html#a9cf78a5259cb110d52d2c91f255abcc4a46b5f8c58b679b4243cbdb5749642c86',1,'AR::Drone::Avionics::Apparatus::Input']]],
   ['progressive',['Progressive',['../namespace_a_r_1_1_drone_1_1_client_1_1_command.html#a02330aef8175f3541b2af60e76a7703ea9712e73e86ea0fe944ca2ce3f9f7dd87',1,'AR::Drone::Client::Command']]],
-  ['purple',['purple',['../_google_map_8cs.html#af97ecc5533558b9d7f347a29995c673eabb7aedfa61007447dd6efaf9f37641e3',1,'GoogleMap.cs']]],
   ['pwm',['Pwm',['../namespace_a_r_1_1_drone_1_1_client_1_1_configuration.html#a1133cdf0594423aeca61a68264c788a1a3247919499520123b35c6081c8f42727',1,'AR::Drone::Client::Configuration']]]
 ];

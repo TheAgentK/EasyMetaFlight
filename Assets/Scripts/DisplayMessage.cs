@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine.UI;
 
+/// <summary>
+/// Hanlder to Connect to the Drone
+/// @author Karsten Siedentopp
+/// @date 04.09.2015
+/// </summary>
 public class DisplayMessage : MonoBehaviour {
 	List<MessageItem> messages = new List<MessageItem>();
 

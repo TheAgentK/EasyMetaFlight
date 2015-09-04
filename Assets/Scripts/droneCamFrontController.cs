@@ -2,6 +2,11 @@
 using System.Collections;
 using Meta;
 
+/// <summary>
+/// Hanlder to Connect to the Drone
+/// @author Karsten Siedentopp
+/// @date 04.09.2015
+/// </summary>
 public class droneCamFrontController : MonoBehaviour {
 
 	public DroneConnect drone;

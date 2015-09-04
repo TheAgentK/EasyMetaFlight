@@ -2,8 +2,16 @@
 using System.Collections;
 using XInputDotNetPure;
 
+/// <summary>
+/// Hanlder to Controlle the Drone with the xboxe 360 Controller
+/// @author Karsten Siedentopp
+/// @date 04.09.2015
+/// </summary>
 public class DroneController : MonoBehaviour {
 
+	/// <summary>
+	/// Log the unhandled exception.
+	/// </summary>
 	public DroneConnect drone;
 	
 	// Gamepad variables
@@ -17,8 +25,10 @@ public class DroneController : MonoBehaviour {
 	private bool rightShoulderPressed = false;
 	private bool leftShoulderPressed = false;
 	private bool camTogglePressed = false;
-
-	// Indicates that the Hover Comand is send
+	
+	/// <summary>
+	/// Indicates that the Hover Comand is send
+	/// </summary>
 	private bool isHoverSend = false;
 
 	public droneCamFrontController camControll;
@@ -37,15 +47,6 @@ public class DroneController : MonoBehaviour {
 		if(drone.isDroneConnected) {
 			MoveDrone();
 		}
-
-		string text = "Use left stick to turn the cube, hold A to change color\n";
-		text += string.Format("IsConnected {0} Packet #{1}\n", state.IsConnected, state.PacketNumber);
-		text += string.Format("\tTriggers {0} {1}\n", state.Triggers.Left, state.Triggers.Right);
-		text += string.Format("\tD-Pad {0} {1} {2} {3}\n", state.DPad.Up, state.DPad.Right, state.DPad.Down, state.DPad.Left);
-		text += string.Format("\tButtons Start {0} Back {1} Guide {2}\n", state.Buttons.Start, state.Buttons.Back, state.Buttons.Guide);
-		text += string.Format("\tButtons LeftStick {0} RightStick {1} LeftShoulder {2} RightShoulder {3}\n", state.Buttons.LeftStick, state.Buttons.RightStick, state.Buttons.LeftShoulder, state.Buttons.RightShoulder);
-		text += string.Format("\tButtons A {0} B {1} X {2} Y {3}\n", state.Buttons.A, state.Buttons.B, state.Buttons.X, state.Buttons.Y);
-		text += string.Format("\tSticks Left {0} {1} Right {2} {3}\n", state.ThumbSticks.Left.X, state.ThumbSticks.Left.Y, state.ThumbSticks.Right.X, state.ThumbSticks.Right.Y);
 
 		// toggle DroneCam Image - big-Small
 		if (state.Buttons.RightShoulder.Equals (ButtonState.Pressed) && !rightShoulderPressed) {

@@ -2,6 +2,11 @@
 using System.Collections;
 using UnityEngine.UI;
 
+/// <summary>
+/// Hanlder to Connect to the Drone
+/// @author Karsten Siedentopp
+/// @date 04.09.2015
+/// </summary>
 public static class Helper {
 	
 	// Note that Color32 and Color implictly convert to each other. You may pass a Color object to this method without first casting it.
